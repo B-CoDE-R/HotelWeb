@@ -1,2 +1,1 @@
-# HotelWeb
-My testing web
+# presitigepalacehotel.com
